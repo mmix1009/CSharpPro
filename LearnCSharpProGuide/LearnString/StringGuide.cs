@@ -21,7 +21,7 @@ namespace LearnString
         }
         static void DeclareAndInitStr()
         {
-            string message1;
+            //string message1;
             string message2 = null;
             string message3 = System.String.Empty;
             string oldPath = "c:\\Program Files\\VS8.0";
@@ -81,11 +81,12 @@ Initialize a string with the Empty constant value to create a new String object 
             NullStringsAndEmptyStrings();
             UseStringBuilder();
             StringExtensionMethod();*/
-            ReplaceSubStrings app = new ReplaceSubStrings();
-            string s = "The mountains are behind the clouds today";
-            s = s.Replace("mountains","peaks");
-            Console.WriteLine(s);
+            //ReplaceSubStrings app = new ReplaceSubStrings();
+            //string s = "The mountains are behind the clouds today";
+            //s = s.Replace("mountains","peaks");
+            //Console.WriteLine(s);
             //s = Regex.Replace(s, app.searchFor, app.ReplaceMatchCase, RegexOptions.IgnoreCase);
+            ComPareStrings.Demo();
             Console.ReadKey();
 
 
