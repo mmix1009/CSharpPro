@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using System.Text.RegularExpressions; 
 namespace LearnString
 {
     class StringGuide
@@ -70,7 +70,7 @@ Initialize a string with the Empty constant value to create a new String object 
         static void Main(string[] args)
         {
 
-            WhatAMI();
+            /*WhatAMI();
             StrVsSystemStr();
             DeclareAndInitStr();
             ImmutablityOfStringObjects();
@@ -80,8 +80,14 @@ Initialize a string with the Empty constant value to create a new String object 
             AccessIndividualCharacters();
             NullStringsAndEmptyStrings();
             UseStringBuilder();
-            StringExtensionMethod();
+            StringExtensionMethod();*/
+            ReplaceSubStrings app = new ReplaceSubStrings();
+            string s = "The mountains are behind the clouds today";
+            s = s.Replace("mountains","peaks");
+            Console.WriteLine(s);
+            //s = Regex.Replace(s, app.searchFor, app.ReplaceMatchCase, RegexOptions.IgnoreCase);
             Console.ReadKey();
+
 
         }
         static void RegularAndVerbatimString()
