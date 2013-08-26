@@ -7,8 +7,8 @@ namespace LearnString
 {
     class ReplaceSubStrings
     {
-        public string searchFor;
-        public string replaceWith;
+        public string searchFor=String.Empty;
+        public string replaceWith=String.Empty;
 
     }
 }

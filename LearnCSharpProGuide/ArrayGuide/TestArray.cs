@@ -26,7 +26,6 @@ namespace ArrayGuide
             int[,] array5={{1,2,3},{13,34,45}};
             // Declare a jagged array
             //int[][] jaggedArray = new int[][];
-
             // Set the values of the first array in the jagged array structure
             //jaggedArray[0] = new int[4] { 1, 2, 3, 4 };
         }
