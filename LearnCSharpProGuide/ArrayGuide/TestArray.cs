@@ -9,7 +9,7 @@ namespace ArrayGuide
 {
     class TestArray
     {
-        static void Start()
+        public static void Start()
         {
             #region What the class do
             //The following examples create single-dimensional, multidimensional, and jagged arrays 

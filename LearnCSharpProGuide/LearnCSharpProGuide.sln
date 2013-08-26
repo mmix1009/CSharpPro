@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnString", "LearnString\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayGuide", "ArrayGuide\ArrayGuide.csproj", "{CA8356A4-EC04-416E-91F5-E6B894A13E5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{9DAF5002-A136-4BB0-9EAD-C435C1B069D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{CA8356A4-EC04-416E-91F5-E6B894A13E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA8356A4-EC04-416E-91F5-E6B894A13E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA8356A4-EC04-416E-91F5-E6B894A13E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAF5002-A136-4BB0-9EAD-C435C1B069D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAF5002-A136-4BB0-9EAD-C435C1B069D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAF5002-A136-4BB0-9EAD-C435C1B069D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAF5002-A136-4BB0-9EAD-C435C1B069D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
