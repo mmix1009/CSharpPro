@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayGuide", "ArrayGuide\Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{9DAF5002-A136-4BB0-9EAD-C435C1B069D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemAndRegistry", "FileSystemAndRegistry\FileSystemAndRegistry.csproj", "{7949F254-EF32-4735-974E-BE0B42401014}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{9DAF5002-A136-4BB0-9EAD-C435C1B069D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DAF5002-A136-4BB0-9EAD-C435C1B069D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DAF5002-A136-4BB0-9EAD-C435C1B069D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7949F254-EF32-4735-974E-BE0B42401014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7949F254-EF32-4735-974E-BE0B42401014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7949F254-EF32-4735-974E-BE0B42401014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7949F254-EF32-4735-974E-BE0B42401014}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
