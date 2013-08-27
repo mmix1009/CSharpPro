@@ -68,7 +68,6 @@ namespace FileSystemAndRegistry
                 {
                     // Resursive call for each subdirectory.
                     WalkDirectoryTree(dirInfo);
-                    dfdfdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfdffdf
                 }
             }
         }         
